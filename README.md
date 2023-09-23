@@ -4,6 +4,8 @@
 
 [huggingface에 파인튜닝된 요약모델](https://huggingface.co/HowAreYouToday/KoT5-summarization)
 
+### [서비스바로가기](https://www.howareyoutoday.shop)
+
 ## Getting Started
 
 프로젝트 사용법 입니다.
